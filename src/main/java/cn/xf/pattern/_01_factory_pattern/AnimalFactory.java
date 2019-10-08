@@ -4,6 +4,7 @@ package cn.xf.pattern._01_factory_pattern;
  * @author : remaindertime (xiongfeng)
  * @date : 16:01 2019/9/30
  * @description : animal工厂类
+ *
  */
 public class AnimalFactory {
 
